@@ -1,4 +1,4 @@
-# ⚙️ Geth + Prysm Sepolia Node Setup (Google Cloud, Mounted Disk) — by cryptoprofezor
+# ⚙️ Geth + Prysm Sepolia Node Setup (Google Cloud, Mounted Disk) 
 
 This step-by-step guide will take you from zero to a fully functional **Ethereum Sepolia Node** (Execution + Consensus Layer) using **Geth** and **Prysm**, with mounted disk setup on Google Cloud. All commands are **fully tested**, clean, and copy-paste ready from your **home directory**.
 
@@ -335,8 +335,7 @@ Perfect for Aztec testnet, validator setups, or your own infra needs 🚀
 
 📌 **Follow for more updates:**
 
-- 🔹 GitHub → [@cryptoprofezor](https://github.com/cryptoprofezor)  
-- 🔹 Telegram → [@MrCryptoTamilan](https://t.me/MrCrypto_Tamilan)
+- 🔹 GitHub → [@desibond](https://github.com/desibond)  
 
 No VPS? No time to run RPC node? Chill bro. I’ll give you Sepolia + Beacon RPC valid for 1 month – budget-friendly. DM if needed
 
