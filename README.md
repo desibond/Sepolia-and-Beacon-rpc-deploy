@@ -333,10 +333,6 @@ Perfect for Aztec testnet, validator setups, or your own infra needs 🚀
 
 ---
 
-📌 **Follow for more updates:**
-
-- 🔹 GitHub → [@desibond](https://github.com/desibond)  
-
 No VPS? No time to run RPC node? Chill bro. I’ll give you Sepolia + Beacon RPC valid for 1 month – budget-friendly. DM if needed
 
 ---
